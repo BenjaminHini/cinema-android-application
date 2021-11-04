@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="welcome_in_your_movie_theatre">Welcome in your movie theater</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">back</string>
+    <string name="make_your_choice">make_your_choice</string>
+    <string name="next">next</string>
+    <string name="todo">todo</string>
+    <string name="number_of_tickets">number_of_tickets</string>
+    <string name="lets_pay">lets_pay</string>
+    <string name="number_of_spot_left">number_of_spot_left</string>
+    <string name="producer">producer</string>
+    <string name="time_of_the_movie">time_of_the_movie</string>
+    <string name="register">register</string>
+    <string name="enter_your_frist_name">enter_your_frist_name</string>
+    <string name="enter_your_last_name">enter your last name</string>
+    <string name="enter_your_mail_address">enter your mail address</string>
+    <string name="enter_a_password">enter a password</string>
+    <string name="enter_your_birthday_date">enter your birthday date</string>
+    <string name="log_in">login</string>
+    <string name="enter_your_mail_adress">enter your mail adress</string>
+    <string name="title_activity_youtube_player">YoutubePlayer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="watch_the_trailor">Watch the trailor</string>
+    <string name="title_activity_test">test</string>
+    <string name="it_s_time_to_pay_now">It\'s Time to Pay Now</string>
+    <string name="name_of_the_owner_of_the_card">Name of the owner of the card</string>
+    <string name="name">Name</string>
+    <string name="number_of_the_card">Number of the card</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="textview">3 digits code</string>
+    <string name="almost_done">Almost Done !</string>
+    <string name="pay">PAY</string>
+    <string name="no_comments">no comments</string>
+    <string name="send_comment">send comment</string>
+    />
+</resources>
